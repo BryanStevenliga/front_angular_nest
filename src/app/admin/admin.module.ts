@@ -15,7 +15,7 @@ import { Table, TableModule } from 'primeng/table';
   declarations: [
     PerfilComponent,
     ClienteComponent,
-    LayoutComponent
+    LayoutComponent,
   ],
   imports: [
     CommonModule,
